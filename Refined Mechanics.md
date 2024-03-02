@@ -12,15 +12,19 @@ Let $x$ be the number to beat,  and let $S$ represent the smallest number of suc
 $$
 P(S=1) = \frac{143 +2x - x^2}{144}
 $$
+
 $$
 P(S = 2) = \frac{167 - 24x + x^2}{144}
 $$
+
 $$
 P(S = 3) = \frac{25 - 2x}{144}
 $$
+
 $$
 P(S = 4) = \frac{1}{144}
 $$
+
 ---
 # Stats
 At the moment there are around 5 core stats in mind for the system. The base ideas for now are:
